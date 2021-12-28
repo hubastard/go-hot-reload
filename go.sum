@@ -1,0 +1,4 @@
+github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849 h1:/Z5Piqd55AAQxWS8oEPF1xgDVntA+W0HeEdsb5pbTVk=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
+github.com/radovskyb/watcher v1.0.7 h1:AYePLih6dpmS32vlHfhCeli8127LzkIgwJGcwwe8tUE=
+github.com/radovskyb/watcher v1.0.7/go.mod h1:78okwvY5wPdzcb1UYnip1pvrZNIVEIh/Cm+ZuvsUYIg=

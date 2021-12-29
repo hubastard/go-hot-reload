@@ -7,7 +7,7 @@ import (
 	"os"
 
 	rl "github.com/gen2brain/raylib-go/raylib"
-	"github.com/hubastard/zombie-factory/game"
+	"github.com/hubastard/hot-reload/game"
 )
 
 const screenWidth int32 = 800

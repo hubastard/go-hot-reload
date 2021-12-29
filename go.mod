@@ -1,4 +1,4 @@
-module github.com/hubastard/zombie-factory
+module github.com/hubastard/hot-reload
 
 go 1.16
 
